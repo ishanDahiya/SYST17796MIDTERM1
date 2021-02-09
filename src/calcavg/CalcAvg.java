@@ -30,6 +30,7 @@ public class CalcAvg {
      
      for(int i = 0; i < Grades.length; i++){
          System.out.println("The Avg is" + Grades );
+         System.out.println("new edit");
      }
         
     }
